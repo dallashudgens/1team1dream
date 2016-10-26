@@ -1,0 +1,20 @@
+{
+  "name": "1team1dream",
+  "version": "1.0.0",
+  "description": "Team blog site to catalog our work and efforts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dallas Hudgens",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cfenv": "^1.0.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "node-static": "^0.7.9",
+    "request": "^2.75.0"
+  }
+}

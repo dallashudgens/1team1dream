@@ -1,0 +1,11 @@
+<header>
+  DUST FILE - One Team One Dream
+  <nav>
+    <ul>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="/team">Team</a></li>
+      <li><a href="/work">Work</a></li>
+    </ul>
+  </nav>
+
+</header>

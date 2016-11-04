@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      {siteTitle}
+    </title>
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+ <body>
+   {>"_header"/}
+   {+bodyContent/}
+   {>"_footer"/}
+ </body>
+ </html>

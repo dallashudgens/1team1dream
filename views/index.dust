@@ -1,0 +1,24 @@
+{>"layout"/}
+
+{<bodyContent}
+  <div>
+    <div>
+      Blog post here
+    </div>
+    <div>
+      Blog post here
+    </div>
+    <div>
+      Blog post here
+    </div>
+    <div>
+      Blog post here
+    </div>
+    <div>
+      Blog post here
+    </div>
+    <div>
+      Blog post here
+    </div>
+  </div>
+{/bodyContent}
